@@ -34,8 +34,8 @@ I am a passionate **Data Engineer** who loves transforming raw data into meaning
 ---
 
 ## 📫 Let's Connect
-- 💼 LinkedIn: *Add your link here*
-- 📧 Email: *Add your email here*
+- 💼 LinkedIn: linkedin.com/in/poorvashinde7
+- 📧 Email: poorvashinde2002@gmail.com
 
 ⭐️ *Turning data into actionable insights, one pipeline at a time.*
 
